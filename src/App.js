@@ -25,7 +25,7 @@ function App() {
         currentCategory={currentCategory}
       ></Nav>
       <main>
-        <ContactForm>S</ContactForm>
+        <ContactForm></ContactForm>
         <Gallery currentCategory={currentCategory}></Gallery>
         <About></About>
       </main>
